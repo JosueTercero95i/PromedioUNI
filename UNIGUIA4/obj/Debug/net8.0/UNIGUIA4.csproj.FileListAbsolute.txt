@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\UNIGUIA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\UNIGUIA4.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\UNIGUIA4.AssemblyInfo.cs
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\UNIGUIA4.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\bin\Debug\net8.0\UNIGUIA4.exe
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\bin\Debug\net8.0\UNIGUIA4.deps.json
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\bin\Debug\net8.0\UNIGUIA4.runtimeconfig.json
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\bin\Debug\net8.0\UNIGUIA4.dll
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\bin\Debug\net8.0\UNIGUIA4.pdb
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\UNIGUIA4.dll
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\refint\UNIGUIA4.dll
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\UNIGUIA4.pdb
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\UNIGUIA4.genruntimeconfig.cache
+C:\Users\PC\source\repos\UNIGUIA4\UNIGUIA4\obj\Debug\net8.0\ref\UNIGUIA4.dll
