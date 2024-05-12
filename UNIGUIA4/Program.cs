@@ -6,7 +6,7 @@ class Program
     {
         Universidad universidad = new Universidad();
 
-        Alumno alumno1 = new Alumno("Adrian Arias", 17, Carreras.Ing_Electronica, "A123");
+        Alumno alumno1 = new Alumno("Adrian Arias", 17, Carreras.Ing_Electronica, "2023-0302I");
         alumno1.AgregarCalificacion(50);
         alumno1.AgregarCalificacion(0);
         alumno1.AgregarCalificacion(25);

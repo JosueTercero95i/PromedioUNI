@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UNIGUIA4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dc1b6b356b13567ca872888ae3c63cf13e08a1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UNIGUIA4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UNIGUIA4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
